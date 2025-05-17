@@ -67,7 +67,8 @@ python hand_gesture_control.py
 
 ## Screenshots
 
-*(Add screenshots or GIFs here to showcase the project in action!)*
+![image](https://github.com/user-attachments/assets/8bec3dd7-ba0b-4305-bcb7-2d859ab310a3)
+
 
 ---
 
