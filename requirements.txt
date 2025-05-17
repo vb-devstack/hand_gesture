@@ -1,0 +1,9 @@
+# It is recommended to use Anaconda for managing your environment.
+# Create a new environment with: conda create -n handgesture python=3.10
+# Then activate it: conda activate handgesture
+
+opencv-python
+mediapipe
+numpy
+pycaw
+comtypes
