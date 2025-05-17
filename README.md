@@ -68,6 +68,8 @@ python hand_gesture_control.py
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/8bec3dd7-ba0b-4305-bcb7-2d859ab310a3)
+![image](https://github.com/user-attachments/assets/525ac35b-a1a8-440a-8fb6-771c692963c4)
+
 
 
 ---
